@@ -1,0 +1,6 @@
+# Ignore model checkpoints and datasets
+models/
+data/
+__pycache__/
+*.pth
+*.pt
